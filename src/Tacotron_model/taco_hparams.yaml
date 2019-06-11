@@ -1,0 +1,19 @@
+### Text
+eos : '~'
+pad : '_'
+chars : pad + 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz!\'\"(),-.:;? ' + eos
+
+
+### Encoder
+num_chars : len(chars)
+padding_idx : 0
+embedding_dim : 512
+
+### Attention
+
+### Decoder
+max_iters : 50
+
+
+### train
+teacher_forcing_ratio : 1.0
