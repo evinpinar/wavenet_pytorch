@@ -1,6 +1,7 @@
 # tts
 My TUM IDP Project to make Angela Merkel sing.
-A blog post on this implementation and experiments is posted here: https://medium.com/@evinpinar/wavenet-implementation-and-experiments-2d2ee57105d5
+
+A blog post on this implementation and experiments is here: https://medium.com/@evinpinar/wavenet-implementation-and-experiments-2d2ee57105d5
 
 ## folder structure
 ```
