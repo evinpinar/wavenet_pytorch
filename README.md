@@ -1,4 +1,4 @@
-# Text-To-Speech
+# WaveNet Implementation for Text-To-Speech
 My TUM IDP Project to make Angela Merkel sing.
 
 A blog post on this implementation and experiments is here: https://medium.com/@evinpinar/wavenet-implementation-and-experiments-2d2ee57105d5
