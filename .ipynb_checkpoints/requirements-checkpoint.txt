@@ -1,2 +1,0 @@
-librosa==0.6.0
-torchaudio==0.1.0
